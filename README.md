@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **UI Designer**
+- 💬 Ask me about **Programmer**
 
 - 📫 How to reach me **aremazaidan67@gmail.com**
 
